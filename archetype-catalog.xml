@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
+    xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <archetypes>
+    <archetype>
+      <groupId>com.amaro.ecp</groupId>
+      <artifactId>kotlin-eks</artifactId>
+      <version>0.3.1-SNAPSHOT</version>
+      <description>kotlin-eks</description>
+    </archetype>
+    <archetype>
+      <groupId>com.ogaclejapan</groupId>
+      <artifactId>kotlin-eks</artifactId>
+      <version>0.3.1-SNAPSHOT</version>
+      <repository>https://github.com/ogaclejapan/maven-archetypes</repository>
+      <description>kotlin-eks</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
